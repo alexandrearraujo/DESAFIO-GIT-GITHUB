@@ -1,0 +1,11 @@
+Abreviações necessarias GIT +
+DIR
+CD
+CD ..
+CLS
+MKDIR
+DEL
+RMDIR / RMDIR /S /Q
+ADD * / ADD . / ADD -A
+PUSH ORIGIN MASTER/MAIN
+CLONE
